@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "custom" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -21,7 +21,7 @@ title                    : "Henry D. J. Kerr"
 title_separator          : "-"
 subtitle                 : "Academic Homepage" # site tagline that appears below site title in masthead
 name                     : "Henry D. J. Kerr"
-description              : "An amazing website."
+description              : "Academic homepage for HDJ Kerr"
 url                      : "https://henrydjkerr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "henrydjkerr/henrydjkerr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Henry D. J. Kerr"
   avatar           : "/assets/images/headshot-crop.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "PhD student researching mathematical neuroscience."
   location         : "University of Exeter"
   email            : "hdjk201@exeter.ac.uk"
   links:
