@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: "https://henrydjkerr.github.io"
- - title: "Publications"
+  - title: "Publications"
     url: "/research/"
   - title: "Talks and Conferences"
     url: "/conferences/"
