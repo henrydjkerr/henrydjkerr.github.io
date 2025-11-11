@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: "https://henrydjkerr.github.io"
-# - title: "Research"
-#    url: "/research/"
+ - title: "Publications"
+    url: "/research/"
   - title: "Talks and Conferences"
     url: "/conferences/"
 #  - title: "Curiosities"
